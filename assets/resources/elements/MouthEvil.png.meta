@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "1af826f2-fdc6-4d2b-928f-32833844f2e7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "MouthEvil": {
+      "ver": "1.0.3",
+      "uuid": "c0eac7fd-3e99-4d92-af11-1c62ea5c9ab3",
+      "rawTextureUuid": "1af826f2-fdc6-4d2b-928f-32833844f2e7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": -0.5,
+      "trimX": 23,
+      "trimY": 26,
+      "width": 102,
+      "height": 49,
+      "rawWidth": 150,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
