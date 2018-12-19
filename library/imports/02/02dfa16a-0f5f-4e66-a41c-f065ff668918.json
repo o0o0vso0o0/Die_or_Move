@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "EyesSquint",
+    "texture": "ff5e78e4-f973-4d53-a70a-fc9f19b13373",
+    "atlas": "",
+    "rect": [
+      9,
+      27,
+      131,
+      39
+    ],
+    "offset": [
+      -0.5,
+      3.5
+    ],
+    "originalSize": [
+      150,
+      100
+    ]
+  }
+}

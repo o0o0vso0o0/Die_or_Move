@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LegBig",
+    "texture": "8c4c4d3e-ea5f-44c3-a830-19a177a99690",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      42
+    ]
+  }
+}

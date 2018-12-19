@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "EyesCry",
+    "texture": "ff450ab4-c58e-4828-a1f7-b07750ad7ad5",
+    "atlas": "",
+    "rect": [
+      13,
+      38,
+      123,
+      62
+    ],
+    "offset": [
+      -0.5,
+      -19
+    ],
+    "originalSize": [
+      150,
+      100
+    ]
+  }
+}

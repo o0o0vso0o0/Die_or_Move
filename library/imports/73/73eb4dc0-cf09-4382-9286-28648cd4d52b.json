@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "EyesDead",
+    "texture": "beae9864-1883-40ce-8a41-c378dd6867be",
+    "atlas": "",
+    "rect": [
+      19,
+      29,
+      112,
+      39
+    ],
+    "offset": [
+      0,
+      1.5
+    ],
+    "originalSize": [
+      150,
+      100
+    ]
+  }
+}

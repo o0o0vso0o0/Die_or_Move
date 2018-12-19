@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MouthBreath",
+    "texture": "b159776b-8b6a-40ad-b64e-34c54917c31c",
+    "atlas": "",
+    "rect": [
+      8,
+      15,
+      133,
+      61
+    ],
+    "offset": [
+      -0.5,
+      4.5
+    ],
+    "originalSize": [
+      150,
+      100
+    ]
+  }
+}

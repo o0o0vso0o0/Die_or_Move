@@ -1,0 +1,487 @@
+2018-12-17T14:19:40.403Z - normal: Load ~/.CocosCreator/settings.json
+2018-12-17T14:19:40.417Z - normal: checking language setting...
+2018-12-17T14:19:40.417Z - normal: Language: zh
+2018-12-17T14:19:43.367Z - success: protocol editor-framework registered
+2018-12-17T14:19:43.368Z - success: protocol app registered
+2018-12-17T14:19:43.368Z - success: protocol theme registered
+2018-12-17T14:19:43.368Z - success: protocol packages registered
+2018-12-17T14:19:43.369Z - success: protocol unpack registerred
+2018-12-17T14:19:43.369Z - success: protocol disable-commonjs registerred
+2018-12-17T14:19:45.864Z - normal: connected!
+2018-12-17T14:19:45.871Z - normal: Check project D:\cocos 1.10.2\Die_or_Move
+2018-12-17T14:19:45.874Z - normal: Initializing project D:\cocos 1.10.2\Die_or_Move
+2018-12-17T14:19:45.879Z - normal: Initializing Cocos2d
+2018-12-17T14:19:46.372Z - normal: Initializing Asset Database
+2018-12-17T14:19:46.441Z - success: protocol uuid registerred
+2018-12-17T14:19:46.441Z - success: protocol db registerred
+2018-12-17T14:19:46.442Z - success: protocol thumbnail registerred
+2018-12-17T14:19:46.442Z - normal: Loading editor/builtin packages
+2018-12-17T14:19:46.824Z - success: assets loaded
+2018-12-17T14:19:46.830Z - success: builder loaded
+2018-12-17T14:19:46.835Z - success: cocos-analytics loaded
+2018-12-17T14:19:46.842Z - success: console loaded
+2018-12-17T14:19:46.935Z - success: fb-instant-games loaded
+2018-12-17T14:19:46.947Z - success: hierarchy loaded
+2018-12-17T14:19:46.953Z - success: inspector loaded
+2018-12-17T14:19:46.956Z - success: keystore loaded
+2018-12-17T14:19:46.964Z - success: node-library loaded
+2018-12-17T14:19:46.968Z - success: package-asset loaded
+2018-12-17T14:19:46.971Z - success: preferences loaded
+2018-12-17T14:19:46.974Z - success: project-exporter loaded
+2018-12-17T14:19:47.009Z - success: project-importer loaded
+2018-12-17T14:19:47.013Z - success: project-settings loaded
+2018-12-17T14:19:47.018Z - success: ui-kit loaded
+2018-12-17T14:19:47.025Z - success: scene loaded
+2018-12-17T14:19:47.027Z - success: sprite-editor loaded
+2018-12-17T14:19:47.033Z - success: store loaded
+2018-12-17T14:19:47.041Z - success: timeline loaded
+2018-12-17T14:19:47.041Z - normal: Loading builtin packages
+2018-12-17T14:19:47.047Z - success: asset-db-debugger loaded
+2018-12-17T14:19:47.049Z - success: code-editor loaded
+2018-12-17T14:19:47.051Z - success: color-picker loaded
+2018-12-17T14:19:47.055Z - success: package-manager loaded
+2018-12-17T14:19:47.056Z - success: qqplay-adapter loaded
+2018-12-17T14:19:47.064Z - success: sdkbox loaded
+2018-12-17T14:19:47.071Z - success: tester loaded
+2018-12-17T14:19:47.075Z - success: ui-grid loaded
+2018-12-17T14:19:47.077Z - success: ui-kit-preview-extra loaded
+2018-12-17T14:19:47.080Z - success: ui-kit-preview loaded
+2018-12-17T14:19:47.082Z - success: ui-tree loaded
+2018-12-17T14:19:47.084Z - success: weapp-adapter loaded
+2018-12-17T14:19:49.883Z - normal: Loading packages
+2018-12-17T14:19:49.894Z - normal: Watching packages
+2018-12-17T14:19:50.893Z - normal: Run Application
+2018-12-17T14:19:53.241Z - success: preview server running at http://localhost:7456
+2018-12-17T14:20:18.863Z - failed: load script [matchvs.all] failed : Error: Cannot find module 'matchvs.all'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (G:\CocosCreator v1.10.2\resources\electron.asar\common\reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (G:\CocosCreator v1.10.2\resources\app.asar\editor\page\project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (G:\CocosCreator v1.10.2\resources\app.asar\editor\page\project-scripts.js:1:967)
+    at D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:1:357
+    at __define (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:13:25)
+    at D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:29:13
+2018-12-17T14:20:18.864Z - failed: load script [MatchvsEngine] failed : Error: Cannot find module 'MatchvsEngine'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (G:\CocosCreator v1.10.2\resources\electron.asar\common\reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (G:\CocosCreator v1.10.2\resources\app.asar\editor\page\project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (G:\CocosCreator v1.10.2\resources\app.asar\editor\page\project-scripts.js:1:967)
+    at D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:1:357
+    at __define (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:17:29)
+    at D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:29:13
+2018-12-17T14:20:18.890Z - failed: load script [D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js] failed : TypeError: MatchVSEngine is not a constructor
+    at __define (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:18:18)
+    at D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:29:13
+    at Object.<anonymous> (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:36:11)
+    at Object.<anonymous> (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:39:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-12-17T14:20:18.906Z - failed: load script [matchvs.all] failed : Error: Cannot find module 'matchvs.all'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (G:\CocosCreator v1.10.2\resources\electron.asar\common\reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (G:\CocosCreator v1.10.2\resources\app.asar\editor\page\project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (G:\CocosCreator v1.10.2\resources\app.asar\editor\page\project-scripts.js:1:967)
+    at D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:1:357
+    at __define (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:13:25)
+    at D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:29:13
+2018-12-17T14:20:18.908Z - failed: load script [MatchvsEngine] failed : Error: Cannot find module 'MatchvsEngine'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (G:\CocosCreator v1.10.2\resources\electron.asar\common\reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (G:\CocosCreator v1.10.2\resources\app.asar\editor\page\project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (G:\CocosCreator v1.10.2\resources\app.asar\editor\page\project-scripts.js:1:967)
+    at D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:1:357
+    at __define (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:17:29)
+    at D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:29:13
+2018-12-17T14:20:18.909Z - failed: load script [Mvs] failed : TypeError: MatchVSEngine is not a constructor
+    at __define (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:18:18)
+    at D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:29:13
+    at Object.<anonymous> (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:36:11)
+    at Object.<anonymous> (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:39:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-12-17T14:20:18.911Z - failed: load script [Basic] failed : Error: Cannot find module 'Basic'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (G:\CocosCreator v1.10.2\resources\electron.asar\common\reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (G:\CocosCreator v1.10.2\resources\app.asar\editor\page\project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (G:\CocosCreator v1.10.2\resources\app.asar\editor\page\project-scripts.js:1:967)
+    at D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Game.js:1:351
+    at __define (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Game.js:11:13)
+    at D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Game.js:438:13
+2018-12-17T14:20:18.928Z - failed: load script [matchvs.all] failed : Error: Cannot find module 'matchvs.all'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (G:\CocosCreator v1.10.2\resources\electron.asar\common\reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (G:\CocosCreator v1.10.2\resources\app.asar\editor\page\project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (G:\CocosCreator v1.10.2\resources\app.asar\editor\page\project-scripts.js:1:967)
+    at D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:1:357
+    at __define (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:13:25)
+    at D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:29:13
+2018-12-17T14:20:18.930Z - failed: load script [MatchvsEngine] failed : Error: Cannot find module 'MatchvsEngine'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (G:\CocosCreator v1.10.2\resources\electron.asar\common\reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (G:\CocosCreator v1.10.2\resources\app.asar\editor\page\project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (G:\CocosCreator v1.10.2\resources\app.asar\editor\page\project-scripts.js:1:967)
+    at D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:1:357
+    at __define (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:17:29)
+    at D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:29:13
+2018-12-17T14:20:18.931Z - failed: load script [Mvs] failed : TypeError: MatchVSEngine is not a constructor
+    at __define (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:18:18)
+    at D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:29:13
+    at Object.<anonymous> (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:36:11)
+    at Object.<anonymous> (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Engine\Mvs.js:39:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2018-12-17T14:20:18.937Z - error: A Class already exists with the same __classname__ : "Mvs".
+    at G:\CocosCreator v1.10.2\resources\engine\cocos2d\core\platform\js.js:374:24
+    at Object.js.setClassName (G:\CocosCreator v1.10.2\resources\engine\cocos2d\core\platform\js.js:404:9)
+    at doDefine (G:\CocosCreator v1.10.2\resources\engine\cocos2d\core\platform\CCClass.js:340:8)
+    at define (G:\CocosCreator v1.10.2\resources\engine\cocos2d\core\platform\CCClass.js:359:15)
+    at Object.CCClass [as Class] (G:\CocosCreator v1.10.2\resources\engine\cocos2d\core\platform\CCClass.js:923:15)
+    at __define (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Start.js:10:4)
+    at D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Start.js:193:13
+    at Object.<anonymous> (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Start.js:200:11)
+    at Object.<anonymous> (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Start.js:203:3)
+2018-12-17T14:20:18.938Z - error: A Class already exists with the same __cid__ : "adf525QF1pMfIeQ8oGfn95t".
+    at Object._setClassId (G:\CocosCreator v1.10.2\resources\engine\cocos2d\core\platform\js.js:374:24)
+    at define (G:\CocosCreator v1.10.2\resources\engine\cocos2d\core\platform\CCClass.js:365:20)
+    at Object.CCClass [as Class] (G:\CocosCreator v1.10.2\resources\engine\cocos2d\core\platform\CCClass.js:923:15)
+    at __define (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Start.js:10:4)
+    at D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Start.js:193:13
+    at Object.<anonymous> (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Start.js:200:11)
+    at Object.<anonymous> (D:\cocos 1.10.2\Die_or_Move\temp\quick-scripts\assets\res\Scripts\Start.js:203:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2018-12-17T14:20:24.463Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-12-17T14:20:24.464Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-12-17T14:20:24.465Z - normal: Simulator: FRAME SCALE = 1.00
+2018-12-17T14:20:26.135Z - normal: Simulator: Ready for GLSL
+2018-12-17T14:20:26.136Z - normal: Simulator: Ready for OpenGL 2.0
+2018-12-17T14:20:26.137Z - normal: Simulator: 
+2018-12-17T14:20:26.137Z - normal: Simulator: {
+2018-12-17T14:20:26.138Z - normal: Simulator: 	gl.version: 4.6.0 NVIDIA 391.35
+2018-12-17T14:20:26.139Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-12-17T14:20:26.140Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-12-17T14:20:26.140Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-12-17T14:20:26.143Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-12-17T14:20:26.144Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-12-17T14:20:26.144Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-12-17T14:20:26.145Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-12-17T14:20:26.146Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-12-17T14:20:26.147Z - normal: Simulator: 	gl.renderer: GeForce GTX 750 Ti/PCIe/SSE2
+2018-12-17T14:20:26.149Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-12-17T14:20:26.152Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-12-17T14:20:26.153Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-12-17T14:20:26.153Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-12-17T14:20:26.154Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-12-17T14:20:26.155Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-12-17T14:20:26.155Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-12-17T14:20:26.156Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-12-17T14:20:26.156Z - normal: Simulator: }
+2018-12-17T14:20:26.157Z - normal: Simulator: 
+2018-12-17T14:20:26.157Z - normal: Simulator: 
+2018-12-17T14:20:26.158Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-12-17T14:20:26.159Z - normal: Simulator: Project Config:
+2018-12-17T14:20:26.161Z - normal: Simulator:     project dir: G:\CocosCreator v1.10.2\resources\cocos2d-x\simulator\win32\
+2018-12-17T14:20:26.165Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-12-17T14:20:26.168Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-12-17T14:20:26.170Z - normal: Simulator:     frame size: 960 x 640
+2018-12-17T14:20:26.171Z - normal: Simulator:     frame scale: 1.00
+2018-12-17T14:20:26.172Z - normal: Simulator:     show console: NO
+2018-12-17T14:20:26.172Z - normal: Simulator:     write debug log: NO ()
+2018-12-17T14:20:26.173Z - normal: Simulator:     listen: 
+2018-12-17T14:20:26.174Z - normal: Simulator:     debugger: none
+2018-12-17T14:20:26.176Z - normal: Simulator:     add searching path:
+2018-12-17T14:20:26.177Z - normal: Simulator: 
+2018-12-17T14:20:26.178Z - normal: Simulator: 
+2018-12-17T14:20:26.178Z - normal: Simulator: 
+2018-12-17T14:20:26.180Z - normal: Simulator: ------------------------------------------------
+2018-12-17T14:20:26.180Z - normal: Simulator: LOAD Js FILE: main.js
+2018-12-17T14:20:26.182Z - normal: Simulator: ------------------------------------------------
+2018-12-17T14:20:26.183Z - normal: Simulator: D/jswrapper (365): Initializing V8, version: 6.0.286.52
+2018-12-17T14:20:26.942Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-12-17T14:20:26.944Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-12-17T14:20:26.944Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-12-17T14:20:27.729Z - normal: Simulator: iShow!
+2018-12-17T14:20:28.126Z - error: Simulator: E/jswrapper (687): ScriptEngine::runScript script matchvs.all, buffer is empty!
+E/jswrapper (231): [ERROR] Failed to invoke require, location: ..\manual\jsb_global.cpp:231
+    at HTMLElement.print-simulator-log (G:\CocosCreator v1.10.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1562)
+    at Object.Panel._dispatch (G:\CocosCreator v1.10.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2283)
+    at EventEmitter.ipcRenderer.on.o (G:\CocosCreator v1.10.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4070)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-12-17T14:20:28.133Z - error: Simulator: E/jswrapper (687): ScriptEngine::runScript script MatchvsEngine, buffer is empty!
+E/jswrapper (231): [ERROR] Failed to invoke require, location: ..\manual\jsb_global.cpp:231
+    at HTMLElement.print-simulator-log (G:\CocosCreator v1.10.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1562)
+    at Object.Panel._dispatch (G:\CocosCreator v1.10.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2283)
+    at EventEmitter.ipcRenderer.on.o (G:\CocosCreator v1.10.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4070)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-12-17T14:20:28.134Z - error: Simulator: E/jswrapper (268): ERROR: Uncaught TypeError: MatchVSEngine is not a constructor, location: assets/res/Scripts/Engine/Mvs.js:0:0
+STACK:
+[0]__define@assets/res/Scripts/Engine/Mvs.js:18
+[1]anonymous@assets/res/Scripts/Engine/Mvs.js:33
+[2]run@src/modular.js:85
+[3]onStart@main.js:31
+[4]anonymous@src/jsb_polyfill.js:26697
+[5]anonymous@src/jsb_polyfill.js:11951
+[6]anonymous@src/jsb_polyfill.js:19654
+[7]onceWrapper@src/jsb_polyfill.js:11005
+[8]78.EventListeners.invoke@src/jsb_polyfill.js:10850
+[9]79.proto.emit@src/jsb_polyfill.js:11032
+[10]callback@src/jsb_polyfill.js:26254
+E/jswrapper (520): [ERROR] (..\jswrapper\v8\Object.cpp, 520): Invoking function (0A521DC0) failed!
+    at HTMLElement.print-simulator-log (G:\CocosCreator v1.10.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1562)
+    at Object.Panel._dispatch (G:\CocosCreator v1.10.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2283)
+    at EventEmitter.ipcRenderer.on.o (G:\CocosCreator v1.10.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4070)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-12-17T14:20:30.477Z - normal: Simulator: D/jswrapper (448): ScriptEngine::cleanup begin ...
+2018-12-17T14:20:30.478Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 39, all objects: 320
+2018-12-17T14:20:30.576Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 19, all objects: 300
+2018-12-17T14:20:30.578Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 19, all objects: 299
+2018-12-17T14:20:30.615Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 19, all objects: 299
+2018-12-17T14:20:30.615Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-12-17T14:20:30.738Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 0, all objects: 0
+2018-12-17T14:20:30.738Z - normal: Simulator: D/jswrapper (688): Starting to cleanup dragonbones object, count: 0
+2018-12-17T14:20:30.740Z - normal: Simulator: D/jswrapper (707): After first cleanup, dragonbones object remained count: 0
+2018-12-17T14:20:30.740Z - normal: Simulator: D/jswrapper (723): After second cleanup, dragonbones object remained count: 0
+2018-12-17T14:20:30.741Z - normal: Simulator: D/jswrapper (511): ScriptEngine::cleanup end ...
+2018-12-17T14:23:28.938Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/res.meta
+2018-12-17T14:23:38.142Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-12-17T14:23:38.297Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-12-17T14:23:38.298Z - normal: Simulator: FRAME SCALE = 1.00
+2018-12-17T14:23:40.647Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-12-17T14:23:40.648Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-12-17T14:23:40.648Z - normal: Simulator: FRAME SCALE = 1.00
+2018-12-17T14:23:51.043Z - normal: Simulator: Ready for GLSL
+2018-12-17T14:23:51.044Z - normal: Simulator: Ready for OpenGL 2.0
+2018-12-17T14:23:51.082Z - normal: Simulator: 
+2018-12-17T14:23:51.083Z - normal: Simulator: {
+2018-12-17T14:23:51.084Z - normal: Simulator: 	gl.version: 4.6.0 NVIDIA 391.35
+2018-12-17T14:23:51.084Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-12-17T14:23:51.085Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-12-17T14:23:51.085Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-12-17T14:23:51.103Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-12-17T14:23:51.104Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-12-17T14:23:51.107Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-12-17T14:23:51.114Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-12-17T14:23:51.116Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-12-17T14:23:51.120Z - normal: Simulator: 	gl.renderer: GeForce GTX 750 Ti/PCIe/SSE2
+2018-12-17T14:23:51.123Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-12-17T14:23:51.124Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-12-17T14:23:51.125Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-12-17T14:23:51.126Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-12-17T14:23:51.126Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-12-17T14:23:51.127Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-12-17T14:23:51.130Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-12-17T14:23:51.131Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-12-17T14:23:51.132Z - normal: Simulator: }
+2018-12-17T14:23:51.134Z - normal: Simulator: 
+2018-12-17T14:23:51.135Z - normal: Simulator: 
+2018-12-17T14:23:51.135Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-12-17T14:23:51.307Z - normal: Simulator: Project Config:
+2018-12-17T14:23:51.308Z - normal: Simulator:     project dir: G:\CocosCreator v1.10.2\resources\cocos2d-x\simulator\win32\
+2018-12-17T14:23:51.309Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-12-17T14:23:51.310Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-12-17T14:23:51.311Z - normal: Simulator:     frame size: 960 x 640
+2018-12-17T14:23:51.311Z - normal: Simulator:     frame scale: 1.00
+2018-12-17T14:23:51.312Z - normal: Simulator:     show console: NO
+2018-12-17T14:23:51.313Z - normal: Simulator:     write debug log: NO ()
+2018-12-17T14:23:51.350Z - normal: Simulator:     listen: 
+2018-12-17T14:23:51.352Z - normal: Simulator:     debugger: none
+2018-12-17T14:23:51.356Z - normal: Simulator:     add searching path:
+2018-12-17T14:23:51.360Z - normal: Simulator: 
+2018-12-17T14:23:51.363Z - normal: Simulator: 
+2018-12-17T14:23:51.365Z - normal: Simulator: 
+2018-12-17T14:23:51.366Z - normal: Simulator: ------------------------------------------------
+2018-12-17T14:23:51.366Z - normal: Simulator: LOAD Js FILE: main.js
+2018-12-17T14:23:51.367Z - normal: Simulator: ------------------------------------------------
+2018-12-17T14:23:51.367Z - normal: Simulator: D/jswrapper (365): Initializing V8, version: 6.0.286.52
+2018-12-17T14:23:51.747Z - normal: Simulator: Ready for GLSL
+2018-12-17T14:23:51.747Z - normal: Simulator: Ready for OpenGL 2.0
+2018-12-17T14:23:52.045Z - normal: Simulator: 
+2018-12-17T14:23:52.046Z - normal: Simulator: {
+2018-12-17T14:23:52.047Z - normal: Simulator: 	gl.version: 4.6.0 NVIDIA 391.35
+2018-12-17T14:23:52.048Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-12-17T14:23:52.049Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-12-17T14:23:52.051Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-12-17T14:23:52.051Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-12-17T14:23:52.052Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-12-17T14:23:52.054Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-12-17T14:23:52.056Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-12-17T14:23:52.057Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-12-17T14:23:52.059Z - normal: Simulator: 	gl.renderer: GeForce GTX 750 Ti/PCIe/SSE2
+2018-12-17T14:23:52.061Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-12-17T14:23:52.064Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-12-17T14:23:52.064Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-12-17T14:23:52.065Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-12-17T14:23:52.066Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-12-17T14:23:52.067Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-12-17T14:23:52.067Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-12-17T14:23:52.068Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-12-17T14:23:52.069Z - normal: Simulator: }
+2018-12-17T14:23:52.069Z - normal: Simulator: 
+2018-12-17T14:23:52.070Z - normal: Simulator: 
+2018-12-17T14:23:52.071Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-12-17T14:23:52.072Z - normal: Simulator: Project Config:
+2018-12-17T14:23:52.073Z - normal: Simulator:     project dir: G:\CocosCreator v1.10.2\resources\cocos2d-x\simulator\win32\
+2018-12-17T14:23:52.074Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-12-17T14:23:52.075Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-12-17T14:23:52.076Z - normal: Simulator:     frame size: 960 x 640
+2018-12-17T14:23:52.077Z - normal: Simulator:     frame scale: 1.00
+2018-12-17T14:23:52.077Z - normal: Simulator:     show console: NO
+2018-12-17T14:23:52.078Z - normal: Simulator:     write debug log: NO ()
+2018-12-17T14:23:52.079Z - normal: Simulator:     listen: 
+2018-12-17T14:23:52.080Z - normal: Simulator:     debugger: none
+2018-12-17T14:23:52.080Z - normal: Simulator:     add searching path:
+2018-12-17T14:23:52.081Z - normal: Simulator: 
+2018-12-17T14:23:52.081Z - normal: Simulator: 
+2018-12-17T14:23:52.083Z - normal: Simulator: 
+2018-12-17T14:23:52.084Z - normal: Simulator: ------------------------------------------------
+2018-12-17T14:23:52.085Z - normal: Simulator: LOAD Js FILE: main.js
+2018-12-17T14:23:52.113Z - normal: Simulator: ------------------------------------------------
+2018-12-17T14:23:52.115Z - normal: Simulator: D/jswrapper (365): Initializing V8, version: 6.0.286.52
+2018-12-17T14:23:54.219Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-12-17T14:23:54.220Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-12-17T14:23:54.221Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-12-17T14:23:54.943Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-12-17T14:23:54.980Z - error: Simulator: E/jswrapper (427): Starting inspector on 0.0.0.0:5086 failed: address already in use
+    at HTMLElement.print-simulator-log (G:\CocosCreator v1.10.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1562)
+    at Object.Panel._dispatch (G:\CocosCreator v1.10.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2283)
+    at EventEmitter.ipcRenderer.on.o (G:\CocosCreator v1.10.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4070)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-12-17T14:23:58.407Z - normal: Simulator: iShow!
+2018-12-17T14:23:59.509Z - normal: Simulator: D/jswrapper (126): JS: InitScene: 12.186999999999898ms
+2018-12-17T14:23:59.579Z - normal: Simulator: D/jswrapper (126): JS: AutoRelease: 1.0020000000004075ms
+2018-12-17T14:23:59.579Z - normal: Simulator: D/jswrapper (126): JS: Destroy: 0.7680000000000291ms
+2018-12-17T14:23:59.580Z - normal: Simulator: D/jswrapper (126): JS: AttachPersist: 0.1000000000003638ms
+2018-12-17T14:23:59.751Z - normal: Simulator: D/jswrapper (126): JS: Activate: 116.60999999999967ms
+2018-12-17T14:24:00.642Z - normal: Simulator: D/jswrapper (126): JS: AI: Player_1
+2018-12-17T14:24:00.642Z - normal: Simulator: D/jswrapper (126): JS: Map: [object Object]
+2018-12-17T14:24:00.645Z - normal: Simulator: D/jswrapper (126): JS: Chainsaws: [object Object],[object Object],[object Object],[object Object]
+2018-12-17T14:24:00.645Z - normal: Simulator: D/jswrapper (126): JS: AI: Player_2
+2018-12-17T14:24:00.646Z - normal: Simulator: D/jswrapper (126): JS: Map: [object Object]
+2018-12-17T14:24:00.647Z - normal: Simulator: D/jswrapper (126): JS: Chainsaws: [object Object],[object Object],[object Object],[object Object]
+2018-12-17T14:24:00.650Z - normal: Simulator: D/jswrapper (126): JS: AI: Player_3
+2018-12-17T14:24:00.650Z - normal: Simulator: D/jswrapper (126): JS: Map: [object Object]
+2018-12-17T14:24:00.651Z - normal: Simulator: D/jswrapper (126): JS: Chainsaws: [object Object],[object Object],[object Object],[object Object]
+2018-12-17T14:24:14.666Z - normal: Simulator: D/jswrapper (448): ScriptEngine::cleanup begin ...
+2018-12-17T14:24:14.667Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 271, all objects: 557
+2018-12-17T14:24:14.843Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 249, all objects: 535
+2018-12-17T14:24:14.844Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 249, all objects: 534
+2018-12-17T14:24:14.952Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 249, all objects: 534
+2018-12-17T14:24:15.021Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-12-17T14:24:15.121Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 0, all objects: 0
+2018-12-17T14:24:15.122Z - normal: Simulator: D/jswrapper (688): Starting to cleanup dragonbones object, count: 0
+2018-12-17T14:24:15.123Z - normal: Simulator: D/jswrapper (707): After first cleanup, dragonbones object remained count: 0
+2018-12-17T14:24:15.124Z - normal: Simulator: D/jswrapper (723): After second cleanup, dragonbones object remained count: 0
+2018-12-17T14:24:15.125Z - normal: Simulator: D/jswrapper (511): ScriptEngine::cleanup end ...
+2018-12-17T14:24:58.274Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-12-17T14:24:58.333Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-12-17T14:24:58.334Z - normal: Simulator: FRAME SCALE = 1.00
+2018-12-17T14:25:02.192Z - normal: Simulator: Ready for GLSL
+2018-12-17T14:25:02.193Z - normal: Simulator: Ready for OpenGL 2.0
+2018-12-17T14:25:02.204Z - normal: Simulator: 
+2018-12-17T14:25:02.205Z - normal: Simulator: {
+2018-12-17T14:25:02.205Z - normal: Simulator: 	gl.version: 4.6.0 NVIDIA 391.35
+2018-12-17T14:25:02.206Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-12-17T14:25:02.207Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-12-17T14:25:02.208Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-12-17T14:25:02.210Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-12-17T14:25:02.210Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-12-17T14:25:02.211Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-12-17T14:25:02.211Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-12-17T14:25:02.212Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2018-12-17T14:25:02.213Z - normal: Simulator: 	gl.renderer: GeForce GTX 750 Ti/PCIe/SSE2
+2018-12-17T14:25:02.213Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-12-17T14:25:02.214Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-12-17T14:25:02.216Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-12-17T14:25:02.217Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-12-17T14:25:02.217Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-12-17T14:25:02.218Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-12-17T14:25:02.218Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-12-17T14:25:02.219Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-12-17T14:25:02.219Z - normal: Simulator: }
+2018-12-17T14:25:02.220Z - normal: Simulator: 
+2018-12-17T14:25:02.220Z - normal: Simulator: 
+2018-12-17T14:25:02.222Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-12-17T14:25:02.286Z - normal: Simulator: Project Config:
+2018-12-17T14:25:02.287Z - normal: Simulator:     project dir: G:\CocosCreator v1.10.2\resources\cocos2d-x\simulator\win32\
+2018-12-17T14:25:02.287Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-12-17T14:25:02.290Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-12-17T14:25:02.291Z - normal: Simulator:     frame size: 960 x 640
+2018-12-17T14:25:02.291Z - normal: Simulator:     frame scale: 1.00
+2018-12-17T14:25:02.292Z - normal: Simulator:     show console: NO
+2018-12-17T14:25:02.292Z - normal: Simulator:     write debug log: NO ()
+2018-12-17T14:25:02.293Z - normal: Simulator:     listen: 
+2018-12-17T14:25:02.294Z - normal: Simulator:     debugger: none
+2018-12-17T14:25:02.294Z - normal: Simulator:     add searching path:
+2018-12-17T14:25:02.295Z - normal: Simulator: 
+2018-12-17T14:25:02.296Z - normal: Simulator: 
+2018-12-17T14:25:02.297Z - normal: Simulator: 
+2018-12-17T14:25:02.298Z - normal: Simulator: ------------------------------------------------
+2018-12-17T14:25:02.298Z - normal: Simulator: LOAD Js FILE: main.js
+2018-12-17T14:25:02.299Z - normal: Simulator: ------------------------------------------------
+2018-12-17T14:25:02.300Z - normal: Simulator: D/jswrapper (365): Initializing V8, version: 6.0.286.52
+2018-12-17T14:25:05.040Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-12-17T14:25:05.045Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-12-17T14:25:05.045Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-12-17T14:25:07.152Z - normal: Simulator: iShow!
+2018-12-17T14:25:09.006Z - normal: Simulator: D/jswrapper (126): JS: InitScene: 7.7599999999997635ms
+2018-12-17T14:25:09.033Z - normal: Simulator: D/jswrapper (126): JS: AutoRelease: 1.2179999999998472ms
+2018-12-17T14:25:09.035Z - normal: Simulator: D/jswrapper (126): JS: Destroy: 0.73700000000008ms
+2018-12-17T14:25:09.090Z - normal: Simulator: D/jswrapper (126): JS: AttachPersist: 0.03699999999980719ms
+2018-12-17T14:25:09.092Z - normal: Simulator: D/jswrapper (126): JS: Activate: 17.827000000000226ms
+2018-12-17T14:25:09.712Z - normal: Simulator: D/jswrapper (126): JS: AI: Player_1
+2018-12-17T14:25:09.730Z - normal: Simulator: D/jswrapper (126): JS: Map: [object Object]
+2018-12-17T14:25:09.735Z - normal: Simulator: D/jswrapper (126): JS: Chainsaws: [object Object],[object Object],[object Object],[object Object]
+2018-12-17T14:25:09.737Z - normal: Simulator: D/jswrapper (126): JS: AI: Player_2
+2018-12-17T14:25:09.738Z - normal: Simulator: D/jswrapper (126): JS: Map: [object Object]
+2018-12-17T14:25:09.739Z - normal: Simulator: D/jswrapper (126): JS: Chainsaws: [object Object],[object Object],[object Object],[object Object]
+2018-12-17T14:25:09.744Z - normal: Simulator: D/jswrapper (126): JS: AI: Player_3
+2018-12-17T14:25:09.745Z - normal: Simulator: D/jswrapper (126): JS: Map: [object Object]
+2018-12-17T14:25:09.746Z - normal: Simulator: D/jswrapper (126): JS: Chainsaws: [object Object],[object Object],[object Object],[object Object]
+2018-12-17T14:25:13.300Z - normal: Simulator: D/jswrapper (448): ScriptEngine::cleanup begin ...
+2018-12-17T14:25:13.303Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 290, all objects: 576
+2018-12-17T14:25:13.452Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 268, all objects: 554
+2018-12-17T14:25:13.460Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 268, all objects: 553
+2018-12-17T14:25:13.624Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 268, all objects: 553
+2018-12-17T14:25:13.629Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-12-17T14:25:13.765Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 0, all objects: 0
+2018-12-17T14:25:13.783Z - normal: Simulator: D/jswrapper (688): Starting to cleanup dragonbones object, count: 0
+2018-12-17T14:25:13.783Z - normal: Simulator: D/jswrapper (707): After first cleanup, dragonbones object remained count: 0
+2018-12-17T14:25:13.814Z - normal: Simulator: D/jswrapper (723): After second cleanup, dragonbones object remained count: 0
+2018-12-17T14:25:13.816Z - normal: Simulator: D/jswrapper (511): ScriptEngine::cleanup end ...
+2018-12-17T14:31:50.210Z - info: shutdown preview server

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MouthShocked",
+    "texture": "42390cb3-980d-48fd-81b1-a716ac034765",
+    "atlas": "",
+    "rect": [
+      45,
+      19,
+      60,
+      61
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      150,
+      100
+    ]
+  }
+}

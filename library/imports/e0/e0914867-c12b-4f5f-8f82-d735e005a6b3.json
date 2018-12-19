@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "EyesJoy",
+    "texture": "754aac56-ef5e-473f-80b7-c825526e25eb",
+    "atlas": "",
+    "rect": [
+      16,
+      32,
+      118,
+      31
+    ],
+    "offset": [
+      0,
+      2.5
+    ],
+    "originalSize": [
+      150,
+      100
+    ]
+  }
+}

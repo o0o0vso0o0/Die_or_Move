@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MouthEvil",
+    "texture": "1af826f2-fdc6-4d2b-928f-32833844f2e7",
+    "atlas": "",
+    "rect": [
+      23,
+      26,
+      102,
+      49
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      150,
+      100
+    ]
+  }
+}

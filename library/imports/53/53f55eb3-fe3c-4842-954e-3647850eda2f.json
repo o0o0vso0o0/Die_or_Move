@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "EyesHappy",
+    "texture": "708bd56d-ac6a-4d9f-96af-c129dd573038",
+    "atlas": "",
+    "rect": [
+      13,
+      24,
+      122,
+      41
+    ],
+    "offset": [
+      -1,
+      5.5
+    ],
+    "originalSize": [
+      150,
+      100
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MouthPleased",
+    "texture": "0d969723-2ef0-41c8-b23e-51b0eb2a15a2",
+    "atlas": "",
+    "rect": [
+      22,
+      24,
+      109,
+      23
+    ],
+    "offset": [
+      1.5,
+      14.5
+    ],
+    "originalSize": [
+      150,
+      100
+    ]
+  }
+}

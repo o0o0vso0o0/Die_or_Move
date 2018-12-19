@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "EyesN1Mask",
+    "texture": "9086ffa1-7d0f-4c45-bf61-03f499dd5a82",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      145,
+      136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      145,
+      136
+    ]
+  }
+}

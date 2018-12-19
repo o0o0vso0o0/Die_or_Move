@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MouthKitty",
+    "texture": "0fb72fca-ca78-4f66-b2c9-6590607b55e4",
+    "atlas": "",
+    "rect": [
+      48,
+      27,
+      54,
+      32
+    ],
+    "offset": [
+      0,
+      7
+    ],
+    "originalSize": [
+      150,
+      100
+    ]
+  }
+}

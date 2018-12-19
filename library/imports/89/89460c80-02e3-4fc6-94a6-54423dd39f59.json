@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MouthN3",
+    "texture": "04fd5f75-8197-4f75-8f30-371acdf60cdc",
+    "atlas": "",
+    "rect": [
+      50,
+      39,
+      43,
+      21
+    ],
+    "offset": [
+      -3.5,
+      0.5
+    ],
+    "originalSize": [
+      150,
+      100
+    ]
+  }
+}

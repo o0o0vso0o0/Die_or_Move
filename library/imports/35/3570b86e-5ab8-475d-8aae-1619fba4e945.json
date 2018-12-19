@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LegSmall",
+    "texture": "17d27999-3b87-4fd8-901c-94c1723379f2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      49,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      49,
+      40
+    ]
+  }
+}

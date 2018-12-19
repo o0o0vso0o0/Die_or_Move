@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MouthSleep",
+    "texture": "ceab4e68-2a5e-441a-adaa-12be520651c5",
+    "atlas": "",
+    "rect": [
+      56,
+      33,
+      36,
+      26
+    ],
+    "offset": [
+      -1,
+      4
+    ],
+    "originalSize": [
+      150,
+      100
+    ]
+  }
+}

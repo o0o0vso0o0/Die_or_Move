@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MouthSad",
+    "texture": "a455f3c7-1bed-4f74-a720-f468757cf3a7",
+    "atlas": "",
+    "rect": [
+      61,
+      38,
+      28,
+      23
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      150,
+      100
+    ]
+  }
+}

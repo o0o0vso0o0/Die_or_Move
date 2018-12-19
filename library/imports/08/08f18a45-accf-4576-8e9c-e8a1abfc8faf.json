@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MouthBored",
+    "texture": "cf2c28c2-8f56-4d71-a6ad-08790d9c9fc1",
+    "atlas": "",
+    "rect": [
+      36,
+      28,
+      74,
+      16
+    ],
+    "offset": [
+      -2,
+      14
+    ],
+    "originalSize": [
+      150,
+      100
+    ]
+  }
+}

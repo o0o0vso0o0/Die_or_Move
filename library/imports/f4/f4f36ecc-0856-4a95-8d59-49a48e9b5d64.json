@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MouthDead",
+    "texture": "a0476bbe-3b46-4c9e-88fc-bf72a15f63db",
+    "atlas": "",
+    "rect": [
+      34,
+      24,
+      84,
+      69
+    ],
+    "offset": [
+      1,
+      -8.5
+    ],
+    "originalSize": [
+      150,
+      100
+    ]
+  }
+}

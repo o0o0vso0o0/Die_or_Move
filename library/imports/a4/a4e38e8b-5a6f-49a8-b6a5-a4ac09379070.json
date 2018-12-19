@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "EyesBig",
+    "texture": "5e9a414f-2b40-482d-aca7-e33c93f6b679",
+    "atlas": "",
+    "rect": [
+      10,
+      3,
+      129,
+      76
+    ],
+    "offset": [
+      -0.5,
+      9
+    ],
+    "originalSize": [
+      150,
+      100
+    ]
+  }
+}

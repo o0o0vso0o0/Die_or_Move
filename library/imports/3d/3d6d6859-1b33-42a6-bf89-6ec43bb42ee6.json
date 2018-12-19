@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "EyesN5",
+    "texture": "ab2a8677-928f-4f1e-a575-903eb32357dd",
+    "atlas": "",
+    "rect": [
+      10,
+      4,
+      128,
+      69
+    ],
+    "offset": [
+      -1,
+      11.5
+    ],
+    "originalSize": [
+      150,
+      100
+    ]
+  }
+}

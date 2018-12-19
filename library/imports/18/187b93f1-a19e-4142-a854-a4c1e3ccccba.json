@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MouthHappy",
+    "texture": "f01685dc-dfd0-453f-9405-4b2a3e7787d1",
+    "atlas": "",
+    "rect": [
+      20,
+      19,
+      111,
+      66
+    ],
+    "offset": [
+      0.5,
+      -2
+    ],
+    "originalSize": [
+      150,
+      100
+    ]
+  }
+}

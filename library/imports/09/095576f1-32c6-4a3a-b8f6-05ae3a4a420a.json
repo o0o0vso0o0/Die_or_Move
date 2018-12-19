@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "EyesHappyMask",
+    "texture": "f7fef60c-72a2-4df4-9620-e56338df947f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      144,
+      106
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      144,
+      106
+    ]
+  }
+}
